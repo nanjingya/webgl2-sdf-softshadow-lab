@@ -1,0 +1,6 @@
+body{margin:0;font-family:ui-sans-serif,system-ui;background:#101418;color:#e8eef5}
+main{display:grid;grid-template-columns:1.4fr 1fr;min-height:100vh}
+canvas{width:100%;height:100%;display:block;background:#000}
+.panel{padding:16px;border-left:1px solid #2a3542}
+#status{display:inline-block;padding:6px 10px;background:#1b2530;border-radius:6px}
+label{display:block;margin:10px 0}
